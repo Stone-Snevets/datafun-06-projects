@@ -1,9 +1,9 @@
 # datafun-06-projects
 
-By Solomon Stevens
-Github Repository: https://github.com/Stone-Snevets/datafun-06-projects
-Date: September 29,2023
-Focus: Perform exploratory data analysis on multiple datasets
+By Solomon Stevens"\n"
+Github Repository: https://github.com/Stone-Snevets/datafun-06-projects "\n"
+Date: September 29,2023 "\n"
+Focus: Perform exploratory data analysis on multiple datasets "\n"
 
 ### Create and Activate Virtual Environment in VS Code
 To **CREATE** a new virtual environment
